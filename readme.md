@@ -1,3 +1,4 @@
-## Interesses de Produto
+# Interesses de Produto
+Gerenciador de interesses de produto.
 
-Desenvolvido com Lumen.
+- Backend: Lumen
